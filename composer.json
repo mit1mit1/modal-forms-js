@@ -1,0 +1,8 @@
+{
+    "name": "mit1mit1/modal-forms-js",
+    "autoload": {
+        "psr-0" : {
+            "livebranchstudios\\ModalForms" : "src"
+        }
+    }
+}
